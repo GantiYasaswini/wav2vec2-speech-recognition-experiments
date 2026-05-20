@@ -1,0 +1,11 @@
+transformers>=4.30
+torch>=2.0
+torchaudio>=2.0
+librosa>=0.10
+datasets>=2.10
+evaluate>=0.4
+jiwer>=3.0
+soundfile>=0.12
+ipython>=8.0
+numpy>=1.23
+accelerate>=0.20
