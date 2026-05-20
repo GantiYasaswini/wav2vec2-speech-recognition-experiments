@@ -120,7 +120,7 @@ wav2vec2-speech-recognition-experiments/
 ├── LICENSE
 ├── wav2vec2_experiments.ipynb
 │
-└── sample_audio/
+└── audio_sample/
     └── audio.wav
 ```
 
