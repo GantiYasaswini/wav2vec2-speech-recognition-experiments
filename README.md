@@ -119,10 +119,9 @@ wav2vec2-speech-recognition-experiments/
 ├── .gitignore
 ├── LICENSE
 ├── wav2vec2_experiments.ipynb
-├── wav2vec2_experiments.py
 │
 └── sample_audio/
-    └── q3_audio.wav
+    └── audio.wav
 ```
 
 ---
